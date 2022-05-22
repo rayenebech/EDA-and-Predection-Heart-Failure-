@@ -1,0 +1,2 @@
+# EDA-and-Predection-Heart-Failure-
+Heart Failure is a serious disease that causes death to millions of people every year. Using Machine Learning models to predict the mortality risk can help to improve better monitoring and early interventions. In our project, we present different methods of data mining and machine learning models that achieve the best scores and outperform previous related works
